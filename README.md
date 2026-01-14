@@ -1,8 +1,17 @@
+![Python](https://img.shields.io/badge/Python-ML%20%26%20Data-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Modeling-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-purple)
+![SQL](https://img.shields.io/badge/SQL-Analytics-blue)
+![Rice](https://img.shields.io/badge/Rice%20University-AI%20Graduate-red)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Geospatial%20Risk-green)
+
 # Hi, I'm Fardin Ahmed
 
 I'm a **Master of Computer Science (AI & Data Science) student at Rice University** with a strong focus on machine learning, geospatial analytics, and large-scale data systems.
 
 I build end-to-end data pipelines and machine-learning models to solve real-world problems — especially in **public health, behavioral analytics, and operational decision-making**.
+
+![Fardin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FardinAhmed89&show_icons=true&theme=tokyonight)
 
 ---
 
