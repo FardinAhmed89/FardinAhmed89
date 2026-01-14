@@ -42,6 +42,7 @@ https://github.com/FardinAhmed89/geospatial-mental-health-risk
 
 **Rice University**  
 M.S. in Computer Science — AI & Data Science (Expected Graduation December 2026)
+
 GPA: 3.9  
 
 **University of Houston–Downtown**  
