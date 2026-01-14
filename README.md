@@ -11,9 +11,8 @@ I'm a **Master of Computer Science (AI & Data Science) student at Rice Universit
 
 I build end-to-end data pipelines and machine-learning models to solve real-world problems — especially in **public health, behavioral analytics, and operational decision-making**.
 
-![Fardin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FardinAhmed89&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FardinAhmed89&layout=compact&theme=tokyonight)
-
+<img src="https://github-readme-stats.vercel.app/api?username=FardinAhmed89&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinAhmed89&layout=compact&theme=tokyonight&cache_seconds=1800" />
 
 ---
 
